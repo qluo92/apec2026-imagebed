@@ -1,0 +1,46 @@
+{
+  "assets": [
+    {
+      "filename": "t3-client-room-cover-1500x500.png",
+      "path": "public/brand/c42/t3-client-room-cover-1500x500.png",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "filename": "t3-client-room-blueprint-1600x1000.png",
+      "path": "public/brand/c42/t3-client-room-blueprint-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "t3-scope-intake-card-1600x1000.png",
+      "path": "public/brand/c42/t3-scope-intake-card-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "t3-grant-revoke-gate-1600x900.png",
+      "path": "public/brand/c42/t3-grant-revoke-gate-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "t3-review-cadence-card-1600x900.png",
+      "path": "public/brand/c42/t3-review-cadence-card-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "t3-notion-github-writeback-board-1600x1000.png",
+      "path": "public/brand/c42/t3-notion-github-writeback-board-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "t3-client-room-contact-sheet-1800x1700.png",
+      "path": "public/brand/c42/t3-client-room-contact-sheet-1800x1700.png",
+      "width": 1800,
+      "height": 1700
+    }
+  ]
+}
