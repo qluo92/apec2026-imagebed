@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "filename": "c49-send-packet-cover-1500x500.png",
+      "path": "public/brand/c49/c49-send-packet-cover-1500x500.png",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "filename": "c49-send-packet-queue-1600x1000.png",
+      "path": "public/brand/c49/c49-send-packet-queue-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c49-email-anatomy-1600x1000.png",
+      "path": "public/brand/c49/c49-email-anatomy-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c49-send-approval-gate-1600x900.png",
+      "path": "public/brand/c49/c49-send-approval-gate-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "c49-send-to-writeback-1600x1000.png",
+      "path": "public/brand/c49/c49-send-to-writeback-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c49-send-packet-contact-sheet-1800x1500.png",
+      "path": "public/brand/c49/c49-send-packet-contact-sheet-1800x1500.png",
+      "width": 1800,
+      "height": 1500
+    }
+  ]
+}
