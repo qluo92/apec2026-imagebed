@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "filename": "t2-walkthrough-room-cover-1500x500.png",
+      "path": "public/brand/c41/t2-walkthrough-room-cover-1500x500.png",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "filename": "t2-customer-surface-map-1600x1000.png",
+      "path": "public/brand/c41/t2-customer-surface-map-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "t2-access-gate-card-1600x900.png",
+      "path": "public/brand/c41/t2-access-gate-card-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "t2-buyer-follow-up-card-1600x900.png",
+      "path": "public/brand/c41/t2-buyer-follow-up-card-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "t2-notion-github-writeback-board-1600x1000.png",
+      "path": "public/brand/c41/t2-notion-github-writeback-board-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "t2-walkthrough-contact-sheet-1800x1500.png",
+      "path": "public/brand/c41/t2-walkthrough-contact-sheet-1800x1500.png",
+      "width": 1800,
+      "height": 1500
+    }
+  ]
+}
