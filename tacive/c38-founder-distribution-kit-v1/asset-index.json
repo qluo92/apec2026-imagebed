@@ -1,0 +1,75 @@
+{
+  "version": "c38-founder-distribution-kit-asset-index-v1",
+  "date": "2026-06-04",
+  "source_manifest": "data/gtm/founder-distribution-kit-v1.json",
+  "imagebed_dir": "c38-founder-distribution-kit-v1",
+  "imagebed_root": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1",
+  "assets": [
+    {
+      "id": "distribution-room-cover",
+      "kind": "notion-cover",
+      "path": "public/brand/c38/distribution-room-cover-1500x500.png",
+      "format": "png",
+      "width": 1500,
+      "height": 500,
+      "usage": "Notion cover for C38 distribution room",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/distribution-room-cover-1500x500.png"
+    },
+    {
+      "id": "channel-sequence-map",
+      "kind": "operator-visual",
+      "path": "public/brand/c38/channel-sequence-map-1600x1000.png",
+      "format": "png",
+      "width": 1600,
+      "height": 1000,
+      "usage": "Channel sequence map",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/channel-sequence-map-1600x1000.png"
+    },
+    {
+      "id": "linkedin-proof-ask-card",
+      "kind": "social",
+      "path": "public/brand/c38/linkedin-proof-ask-card-1200x1200.png",
+      "format": "png",
+      "width": 1200,
+      "height": 1200,
+      "usage": "LinkedIn proof ask card",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/linkedin-proof-ask-card-1200x1200.png"
+    },
+    {
+      "id": "wechat-article-brief-card",
+      "kind": "social",
+      "path": "public/brand/c38/wechat-article-brief-card-1200x900.png",
+      "format": "png",
+      "width": 1200,
+      "height": 900,
+      "usage": "WeChat article brief card",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/wechat-article-brief-card-1200x900.png"
+    },
+    {
+      "id": "founder-email-sequence-card",
+      "kind": "email",
+      "path": "public/brand/c38/founder-email-sequence-card-1600x900.png",
+      "format": "png",
+      "width": 1600,
+      "height": 900,
+      "usage": "Founder email sequence card",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/founder-email-sequence-card-1600x900.png"
+    },
+    {
+      "id": "reply-writeback-board",
+      "kind": "operator-visual",
+      "path": "public/brand/c38/reply-writeback-board-1600x1000.png",
+      "format": "png",
+      "width": 1600,
+      "height": 1000,
+      "usage": "Reply writeback board",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c38-founder-distribution-kit-v1/reply-writeback-board-1600x1000.png"
+    }
+  ]
+}

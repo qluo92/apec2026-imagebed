@@ -1,0 +1,119 @@
+{
+  "version": "c39-gtm-launch-deck-asset-index-v1",
+  "date": "2026-06-04",
+  "source_manifest": "data/gtm/launch-deck-kit-v1.json",
+  "imagebed_dir": "c39-gtm-launch-deck-v1",
+  "imagebed_root": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1",
+  "assets": [
+    {
+      "id": "tacive-gtm-launch-deck-v1",
+      "kind": "pptx",
+      "path": "public/brand/c39/tacive-gtm-launch-deck-v1.pptx",
+      "format": "pptx",
+      "width": null,
+      "height": null,
+      "usage": "Warm intro, first buyer review, investor/reviewer forwarding, and founder-led proof-review conversations.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/tacive-gtm-launch-deck-v1.pptx"
+    },
+    {
+      "id": "launch-deck-contact-sheet",
+      "kind": "png",
+      "path": "public/brand/c39/contact-sheet.png",
+      "format": "png",
+      "width": 3912,
+      "height": 2376,
+      "usage": "Notion and GitHub preview for the full C39 deck.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/contact-sheet.png"
+    },
+    {
+      "id": "slide-01-launch-title",
+      "kind": "png",
+      "path": "public/brand/c39/slide-01.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Launch deck title and motion.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-01.png"
+    },
+    {
+      "id": "slide-02-buyer-problem",
+      "kind": "png",
+      "path": "public/brand/c39/slide-02.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Buyer problem framing.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-02.png"
+    },
+    {
+      "id": "slide-03-proof-object",
+      "kind": "png",
+      "path": "public/brand/c39/slide-03.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Judgment Object explanation.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-03.png"
+    },
+    {
+      "id": "slide-04-offer-boundary",
+      "kind": "png",
+      "path": "public/brand/c39/slide-04.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "T1/T2/T3 offer boundary.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-04.png"
+    },
+    {
+      "id": "slide-05-manual-gtm-loop",
+      "kind": "png",
+      "path": "public/brand/c39/slide-05.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Manual GTM sequence and scale gate.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-05.png"
+    },
+    {
+      "id": "slide-06-reviewer-map",
+      "kind": "png",
+      "path": "public/brand/c39/slide-06.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Reviewer routing map.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-06.png"
+    },
+    {
+      "id": "slide-07-low-friction-ask",
+      "kind": "png",
+      "path": "public/brand/c39/slide-07.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Low-friction next ask.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-07.png"
+    },
+    {
+      "id": "slide-08-commercial-guardrails",
+      "kind": "png",
+      "path": "public/brand/c39/slide-08.png",
+      "format": "png",
+      "width": 1280,
+      "height": 720,
+      "usage": "Commercial credibility guardrails.",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c39-gtm-launch-deck-v1/slide-08.png"
+    }
+  ]
+}

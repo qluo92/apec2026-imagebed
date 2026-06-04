@@ -1,0 +1,75 @@
+{
+  "version": "c37-buyer-conversation-kit-asset-index-v1",
+  "date": "2026-06-04",
+  "source_manifest": "data/gtm/buyer-conversation-kit-v1.json",
+  "imagebed_dir": "c37-buyer-conversation-kit-v1",
+  "imagebed_root": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1",
+  "assets": [
+    {
+      "id": "buyer-conversation-one-pager",
+      "kind": "one-pager",
+      "path": "public/brand/c37/buyer-conversation-one-pager-1600x2200.png",
+      "format": "png",
+      "width": 1600,
+      "height": 2200,
+      "usage": "Buyer conversation one-pager",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/buyer-conversation-one-pager-1600x2200.png"
+    },
+    {
+      "id": "objection-map",
+      "kind": "operator-visual",
+      "path": "public/brand/c37/objection-map-1600x1000.png",
+      "format": "png",
+      "width": 1600,
+      "height": 1000,
+      "usage": "Objection handling map",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/objection-map-1600x1000.png"
+    },
+    {
+      "id": "t1-t2-t3-boundary-card",
+      "kind": "sales-enable",
+      "path": "public/brand/c37/t1-t2-t3-boundary-card-1600x900.png",
+      "format": "png",
+      "width": 1600,
+      "height": 900,
+      "usage": "T1/T2/T3 route boundary card",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/t1-t2-t3-boundary-card-1600x900.png"
+    },
+    {
+      "id": "buyer-meeting-agenda",
+      "kind": "meeting",
+      "path": "public/brand/c37/buyer-meeting-agenda-1200x900.png",
+      "format": "png",
+      "width": 1200,
+      "height": 900,
+      "usage": "Buyer meeting agenda visual",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/buyer-meeting-agenda-1200x900.png"
+    },
+    {
+      "id": "follow-up-decision-tree",
+      "kind": "operator-visual",
+      "path": "public/brand/c37/follow-up-decision-tree-1600x1000.png",
+      "format": "png",
+      "width": 1600,
+      "height": 1000,
+      "usage": "Follow-up routing visual",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/follow-up-decision-tree-1600x1000.png"
+    },
+    {
+      "id": "stitch-production-brief-board",
+      "kind": "stitch-handoff",
+      "path": "public/brand/c37/stitch-production-brief-board-1600x900.png",
+      "format": "png",
+      "width": 1600,
+      "height": 900,
+      "usage": "Google Stitch production brief board",
+      "notion_embed_ready": true,
+      "imagebed_url": "https://raw.githubusercontent.com/qluo92/apec2026-imagebed/main/tacive/c37-buyer-conversation-kit-v1/stitch-production-brief-board-1600x900.png"
+    }
+  ]
+}
