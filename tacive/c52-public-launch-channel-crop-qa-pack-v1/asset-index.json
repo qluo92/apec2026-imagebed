@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "filename": "c52-linkedin-feed-1200x627.png",
+      "path": "public/brand/c52/c52-linkedin-feed-1200x627.png",
+      "width": 1200,
+      "height": 627
+    },
+    {
+      "filename": "c52-linkedin-square-1200x1200.png",
+      "path": "public/brand/c52/c52-linkedin-square-1200x1200.png",
+      "width": 1200,
+      "height": 1200
+    },
+    {
+      "filename": "c52-x-thread-1600x900.png",
+      "path": "public/brand/c52/c52-x-thread-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "c52-wechat-cover-900x383.png",
+      "path": "public/brand/c52/c52-wechat-cover-900x383.png",
+      "width": 900,
+      "height": 383
+    },
+    {
+      "filename": "c52-mobile-story-1080x1920.png",
+      "path": "public/brand/c52/c52-mobile-story-1080x1920.png",
+      "width": 1080,
+      "height": 1920
+    },
+    {
+      "filename": "c52-public-launch-contact-sheet-1800x1500.png",
+      "path": "public/brand/c52/c52-public-launch-contact-sheet-1800x1500.png",
+      "width": 1800,
+      "height": 1500
+    }
+  ]
+}
