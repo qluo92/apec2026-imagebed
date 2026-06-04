@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "filename": "c47-backfill-cover-1500x500.png",
+      "path": "public/brand/c47/c47-backfill-cover-1500x500.png",
+      "width": 1500,
+      "height": 500
+    },
+    {
+      "filename": "c47-notion-backfill-queue-1600x1000.png",
+      "path": "public/brand/c47/c47-notion-backfill-queue-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c47-founder-ops-handoff-1600x1000.png",
+      "path": "public/brand/c47/c47-founder-ops-handoff-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c47-notion-acceptance-gate-1600x900.png",
+      "path": "public/brand/c47/c47-notion-acceptance-gate-1600x900.png",
+      "width": 1600,
+      "height": 900
+    },
+    {
+      "filename": "c47-public-evidence-ledger-1600x1000.png",
+      "path": "public/brand/c47/c47-public-evidence-ledger-1600x1000.png",
+      "width": 1600,
+      "height": 1000
+    },
+    {
+      "filename": "c47-backfill-handoff-contact-sheet-1800x1500.png",
+      "path": "public/brand/c47/c47-backfill-handoff-contact-sheet-1800x1500.png",
+      "width": 1800,
+      "height": 1500
+    }
+  ]
+}
