@@ -1,0 +1,76 @@
+﻿{
+    "assets":  [
+                   {
+                       "filename":  "notion-activation-cover-1500x500.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/notion-activation-cover-1500x500.png",
+                       "width":  1500,
+                       "height":  500,
+                       "format":  "png",
+                       "id":  "notion-activation-cover"
+                   },
+                   {
+                       "filename":  "linkedin-founder-launch-1200x1200.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/linkedin-founder-launch-1200x1200.png",
+                       "width":  1200,
+                       "height":  1200,
+                       "format":  "png",
+                       "id":  "linkedin-founder-launch"
+                   },
+                   {
+                       "filename":  "linkedin-proof-review-1200x627.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/linkedin-proof-review-1200x627.png",
+                       "width":  1200,
+                       "height":  627,
+                       "format":  "png",
+                       "id":  "linkedin-proof-review"
+                   },
+                   {
+                       "filename":  "x-thread-card-1600x900.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/x-thread-card-1600x900.png",
+                       "width":  1600,
+                       "height":  900,
+                       "format":  "png",
+                       "id":  "x-thread-card"
+                   },
+                   {
+                       "filename":  "email-signature-banner-1200x300.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/email-signature-banner-1200x300.png",
+                       "width":  1200,
+                       "height":  300,
+                       "format":  "png",
+                       "id":  "email-signature-banner"
+                   },
+                   {
+                       "filename":  "founder-send-room-1600x1000.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/founder-send-room-1600x1000.png",
+                       "width":  1600,
+                       "height":  1000,
+                       "format":  "png",
+                       "id":  "founder-send-room"
+                   },
+                   {
+                       "filename":  "t1-one-question-card-1080x1350.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/t1-one-question-card-1080x1350.png",
+                       "width":  1080,
+                       "height":  1350,
+                       "format":  "png",
+                       "id":  "t1-one-question-card"
+                   },
+                   {
+                       "filename":  "weekly-learning-review-1600x900.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/weekly-learning-review-1600x900.png",
+                       "width":  1600,
+                       "height":  900,
+                       "format":  "png",
+                       "id":  "weekly-learning-review"
+                   },
+                   {
+                       "filename":  "activation-deck-cover-1600x900.png",
+                       "path":  "tacive/c36-gtm-activation-kit-v1/activation-deck-cover-1600x900.png",
+                       "width":  1600,
+                       "height":  900,
+                       "format":  "png",
+                       "id":  "activation-deck-cover"
+                   }
+               ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "assets":  [
+                   {
+                       "filename":  "tacive-mark-512.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-mark-512.png",
+                       "width":  512,
+                       "height":  512,
+                       "format":  "png",
+                       "id":  "logo-mark-png"
+                   },
+                   {
+                       "filename":  "tacive-avatar-dark-512.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-avatar-dark-512.png",
+                       "width":  512,
+                       "height":  512,
+                       "format":  "png",
+                       "id":  "avatar-dark-png"
+                   },
+                   {
+                       "filename":  "tacive-mark.svg",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-mark.svg",
+                       "width":  null,
+                       "height":  null,
+                       "format":  "svg",
+                       "id":  "tacive-mark"
+                   },
+                   {
+                       "filename":  "tacive-mark-dark.svg",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-mark-dark.svg",
+                       "width":  null,
+                       "height":  null,
+                       "format":  "svg",
+                       "id":  "tacive-mark-dark"
+                   },
+                   {
+                       "filename":  "tacive-lockup-light.svg",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-lockup-light.svg",
+                       "width":  null,
+                       "height":  null,
+                       "format":  "svg",
+                       "id":  "tacive-lockup-light"
+                   },
+                   {
+                       "filename":  "tacive-lockup-dark.svg",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-lockup-dark.svg",
+                       "width":  null,
+                       "height":  null,
+                       "format":  "svg",
+                       "id":  "tacive-lockup-dark"
+                   },
+                   {
+                       "filename":  "tacive-lockup-light-1200x360.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/tacive-lockup-light-1200x360.png",
+                       "width":  1200,
+                       "height":  360,
+                       "format":  "png",
+                       "id":  "lockup-light-png"
+                   },
+                   {
+                       "filename":  "og-brand-launch-1200x630.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/og-brand-launch-1200x630.png",
+                       "width":  1200,
+                       "height":  630,
+                       "format":  "png",
+                       "id":  "og-brand-launch"
+                   },
+                   {
+                       "filename":  "linkedin-launch-1200x627.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/linkedin-launch-1200x627.png",
+                       "width":  1200,
+                       "height":  627,
+                       "format":  "png",
+                       "id":  "linkedin-launch"
+                   },
+                   {
+                       "filename":  "x-launch-1600x900.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/x-launch-1600x900.png",
+                       "width":  1600,
+                       "height":  900,
+                       "format":  "png",
+                       "id":  "x-launch"
+                   },
+                   {
+                       "filename":  "email-header-1200x400.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/email-header-1200x400.png",
+                       "width":  1200,
+                       "height":  400,
+                       "format":  "png",
+                       "id":  "email-header"
+                   },
+                   {
+                       "filename":  "proof-object-social-1200x900.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/proof-object-social-1200x900.png",
+                       "width":  1200,
+                       "height":  900,
+                       "format":  "png",
+                       "id":  "proof-object-social"
+                   },
+                   {
+                       "filename":  "sales-one-pager-1600x2200.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/sales-one-pager-1600x2200.png",
+                       "width":  1600,
+                       "height":  2200,
+                       "format":  "png",
+                       "id":  "sales-one-pager"
+                   },
+                   {
+                       "filename":  "logo-route-board-1600x1000.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/logo-route-board-1600x1000.png",
+                       "width":  1600,
+                       "height":  1000,
+                       "format":  "png",
+                       "id":  "logo-route-board"
+                   },
+                   {
+                       "filename":  "brand-contact-sheet-1600x1200.png",
+                       "path":  "tacive/c35-brand-launch-asset-pack-v1/brand-contact-sheet-1600x1200.png",
+                       "width":  1600,
+                       "height":  1200,
+                       "format":  "png",
+                       "id":  "brand-contact-sheet"
+                   }
+               ]
+}

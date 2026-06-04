@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Tacive evidence spine mark</title>
+  <desc id="desc">A compact T mark built from an evidence spine, decision bar, and boundary rail.</desc>
+  <rect x="16" y="16" width="480" height="480" fill="transparent" stroke="#D8D0BE" stroke-width="12"/>
+  <path d="M136 126 V386" stroke="#1F5E8B" stroke-width="34" stroke-linecap="square"/>
+  <path d="M136 164 H386" stroke="#151511" stroke-width="34" stroke-linecap="square"/>
+  <path d="M238 264 H386" stroke="#D8D0BE" stroke-width="12" stroke-linecap="square"/>
+  <path d="M238 264 L386 386" stroke="#D8D0BE" stroke-width="12" stroke-linecap="square"/>
+  <rect x="116" y="106" width="40" height="40" fill="#151511"/>
+  <rect x="366" y="144" width="40" height="40" fill="#151511"/>
+  <rect x="116" y="366" width="40" height="40" fill="#8E5E4A"/>
+</svg>
